@@ -1,0 +1,23 @@
+{
+  "source_url": "https://github.com/longxiutian/customer-economics-lab",
+  "commit": "df6d62a7739a1f04de69a61a474812a04694810c",
+  "files": {
+    "baseline/LICENSE": "04fa2b1ef5b575fb2b8f2967a234785605cbbf707436b3ecc80384bbd32a0640",
+    "baseline/data_manifest.json": "557d88a88b0806e1e266a48c1b8f638e46d6eaa356447031b5c1fc132ecf1e43",
+    "baseline/report.pdf": "cf36ead4e5e61f65de0ec6d0ebc0aeb3032750c6308fb577ea975dd6ea2b4de9",
+    "baseline/tables/cohort_cash_economics.csv": "f4ab3b07a66288a118371b410b1cfefdc64917c4674934d19b369ac8cbcb44c6",
+    "baseline/tables/channel_value_decision.csv": "82d7eb527d1b9d983294f6344e82fa9c96a69f687d0972d41bf1e09dfcb24fcd",
+    "baseline/tables/cohort_valuation.csv": "de4320a1c2c02625cd872c6c0d7286c0d766df53e0e0bee19719cd78f27cd2bf",
+    "baseline/tables/cohort_totals.csv": "d3db2cdc99e27e9f10a35d185609c6ed7dc59eba0a6b1f5f0157785ade567821",
+    "baseline/data/people.csv": "d65009952863c9e7a434d1ac51629bd7181c5ea8f776c0b9ec9b53d85e3d9826",
+    "baseline/data/feedback.csv": "505c0c76028273363eefc13f70ca396b94b7601c910be65e7e2cb00693752568",
+    "baseline/data/acquisition_attribution.csv": "301da5f5b0b24e99a3dc5885fb1bd608b5b7a616126b33e4b4e223a168833758",
+    "baseline/data/product_events.csv": "007185d413810f602b14b0addf046c6603610482609ea9f858d989e1c76dc63a",
+    "baseline/data/subscription_periods.csv": "f99a5d171330038a9b3291b5995b0e22cf5f7e4cb9fa94473482ae3c72b3cc7f",
+    "baseline/data/campaign_spend.csv": "a6110f1403dbe518ce5243c1392fd99fbfa101c66525f3371997055f304c0e8d",
+    "baseline/data/channel_holdouts.csv": "1233899b79e24005af9e1863bcb1b220b762534d536cdff432e5c184a164764b",
+    "baseline/data/transactions.csv": "302397ee13f7e6c806a59ab33a4567d372f6fbd86d07a22ccf1ffeda40bfc2fb",
+    "schema.json": "fc2a65bf83d5bc230d5faa21bc76a8b7ed67bde4079222d6c30f11b8bbe15120",
+    "01_views.sql": "a65d7c3d826d252733470c7c01f85e3dbd3f3d07684a2eb25c1551b0f9b630b9"
+  }
+}

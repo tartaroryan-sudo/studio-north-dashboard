@@ -1,0 +1,9 @@
+{
+  "source_commit": "df6d62a7739a1f04de69a61a474812a04694810c",
+  "months": 24,
+  "latest_sql_reconciles": true,
+  "june_2025_truncated_source_check": true,
+  "baseline_report_sha256": "cf36ead4e5e61f65de0ec6d0ebc0aeb3032750c6308fb577ea975dd6ea2b4de9",
+  "forecast_policy": "FAQ 4 fallback: original fit displayed only at December 2025; historical forecast unavailable.",
+  "first_supported_recommendation": "December 2025, the first snapshot with an eligible forecast in this implementation. Earlier support is unknown."
+}
